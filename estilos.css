@@ -1,9 +1,39 @@
 body{
     background-color: black;
+    align-items: center;
 }
-.contenedor{
-    max-width: 50%;
-    margin: auto;
-    border: cadetblue solid 2px;
-   color: antiquewhite;
+.texto{
+    color:black;
+    font-family:Impact, ¿'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    background-color: cadetblue;
+    margin: 50px 150px;
+    padding: 15px;
+}
+.imagen1{
+align-items: center; margin: 240px;
+}
+.imagen2{
+    align-items: center;margin: 170px;
+}
+.imagen3{
+    align-items: center;margin: 240px;
+}
+.imagen4{
+    align-items: center;margin: 170px;
+}
+.imagen5{
+    align-items: center;margin: 240px;
+}
+.imagen6{
+    align-items: center;margin: 170px;
+}
+.imagen7{
+    align-items: center;margin: 240px;
+}
+.imagen8{
+    align-items: center;margin: 170px;
+}
+.imagen9{
+    align-items: center;margin: 240px;
 }
