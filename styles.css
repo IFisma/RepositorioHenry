@@ -21,16 +21,19 @@ body{
 .iconogithub{
   margin: 50px;
   padding-inline-start: 25px;
+
  
 }
 .iconoinstagram{
   margin: 50px;
   padding-inline-start: 25px;
+
  
 }
 .iconotwitter{
   margin: 50px;
   padding-inline-start: 25px;
+
   
 }
 .redes{
@@ -48,5 +51,5 @@ a{
   color: bisque;
   margin: 20px;
   padding: 20px;
-  border: 1px solid bisque;
+
 }
