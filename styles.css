@@ -54,8 +54,22 @@ a{
 
 }
 .Sya{
-  color: blueviolet;
+  color:bisque
+   }
+.label{
+  width: 400px;
+  margin:50;
+  color: lightsalmon
 }
-label{
-  text-align: left;
+.html{
+  color:bisque; 
+
+}
+.head{
+  color: bisque;
+  
+}
+.textH{
+  color: cadetblue ;
+  background-color: azure;
 }
