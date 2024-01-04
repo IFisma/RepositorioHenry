@@ -11,6 +11,7 @@ body{
 
   color: #3b3838;
   background-color: cadetblue;
+  border-radius: 20px;
 }
 .texto1{
   margin: 130px;
@@ -18,29 +19,27 @@ body{
   border: 2px solid #333;
   background-color: bisque;
   }
-.iconogithub{
+.icono{
   margin: 50px;
   padding-inline-start: 25px;
-
- 
-}
-.iconoinstagram{
-  margin: 50px;
-  padding-inline-start: 25px;
-
- 
-}
-.iconotwitter{
-  margin: 50px;
-  padding-inline-start: 25px;
+  transition: 1s;
+  width: fit-content;
+  border: 2px beige solid ;
+  border-radius: 15px;
 
   
+ 
 }
+ .icono:hover{
+  background-color: cadetblue;
+ }
+
 .redes{
   background-color: #3b3838;
   color: cadetblue;
   padding: 30px;
   margin: 80px;
+  border-radius: 20px;
 }
 a{
    color: cadetblue; 
@@ -72,12 +71,14 @@ a{
 .textH{
   color: cadetblue ;
   background-color: azure;
+
 }
-.logofacebook{
-  margin:  50px;
-  padding-inline-start:  25px ;
+
+#TITLE{
+    background-color: skyblue;
 }
-.iconoyoutube{
-  margin: 50px;
-  padding-inline-start: 25px;
+.caja{
+  border: 2px solid bisque;
+ border-radius: 20px ;
+ 
 }
