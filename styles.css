@@ -27,7 +27,6 @@ body{
   border: 2px beige solid ;
   border-radius: 15px;
 
-  
  
 }
  .icono:hover{
@@ -40,9 +39,10 @@ body{
   padding: 30px;
   margin: 80px;
   border-radius: 20px;
+ 
 }
 a{
-   color: cadetblue; 
+   color: rgb(0, 0, 0); 
    text-decoration: none;
    font-style: italic;
   }
@@ -78,7 +78,10 @@ a{
     background-color: skyblue;
 }
 .caja{
-  border: 2px solid bisque;
+  
+ border: 2px solid bisque;
  border-radius: 20px ;
+ width: fit-content;
+ display: flex;
  
 }
